@@ -1,0 +1,16 @@
+.git
+.env
+.idea
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv
+.venv
+env/
+ENV/
+cache/
+temp_files/
+test_case/
+auth/
